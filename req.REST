@@ -1,0 +1,10 @@
+
+POST http://localhost:8000/todos/new
+Content-Type: application/json/
+
+{
+    "text":"eat food"
+}
+
+###
+DELETE http://localhost:8000/user
